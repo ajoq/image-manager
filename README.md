@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/00ktpuhnoo06fjhg?svg=true)](https://ci.appveyor.com/project/ajoq/image-manager)
 
-https://ajoq.github.io/image-manager/
+https://ajoq.github.io/js-image-manager/
 
 ### Галерея изображений с проверкой URL
 
